@@ -1,7 +1,12 @@
 [package]
 name = "wise-platform"
+description = "Wise Platform API client using progenitor"
+authors = ["Liam Kinne <liam@kinne.io>"]
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/liamkinne/wise-rs"
 
 [build-dependencies]
 serde_json = "1.0"
